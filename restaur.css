@@ -1,0 +1,210 @@
+                * {
+                    margin: 0px;
+                    padding: 0px;
+                }
+                
+                #h1 {
+                    margin-left: 45%;
+                    position: absolute;
+                    color: red;
+                }
+                
+                #hf {
+                    margin-left: 46.2%;
+                }
+                
+                #hf hr {
+                    width: 1415px;
+                    margin-left: -93%;
+                    display: block;
+                }
+                
+                span {
+                    margin-left: 47%;
+                }
+                
+                .lo img {
+                    margin-left: 47%;
+                    border-radius: 1px;
+                    -moz-box-shadow: none;
+                    -web-box-shadow: none;
+                    box-shadow: none;
+                    display: block;
+                }
+                
+                nav {
+                    border: 1px solid black;
+                    height: 100px;
+                    width: 1362px;
+                    background-color: rgb(97, 96, 96);
+                }
+                
+                ul li {
+                    line-height: 4.6em;
+                    padding-left: 20px;
+                    float: left;
+                    list-style: none;
+                    width: 70px;
+                }
+                
+                .drop {
+                    margin-left: 36%;
+                }
+                
+                ul li a:hover {
+                    border-radius: 10px;
+                    background-color: red;
+                }
+                
+                ul li a {
+                    text-decoration: none;
+                    color: white;
+                    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                }
+                
+                #welcom {
+                    text-align: center;
+                }
+                
+                .button {
+                    background-color: yellow;
+                    font-size: 20px;
+                    margin-left: 46%;
+                    border-radius: 10px;
+                    border: none;
+                    display: block;
+                    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+                }
+                
+                button:hover {
+                    background-color: red;
+                }
+                
+                #container1::before {
+                    content: '';
+                    background: url("f2.jpg") no-repeat center center/cover;
+                    width: 100vw;
+                    height: 59vh;
+                    position: absolute;
+                    top: 0px;
+                    left: 0px;
+                    font-family: 'Ubuntu Mono', monospace;
+                    margin-right: 45px;
+                    font-weight: bold;
+                    z-index: -1;
+                    opacity: 0.89;
+                    border: 2px solid black;
+                    border-bottom-left-radius: 100px;
+                    margin-top: 12.8%;
+                }
+                
+                .s1 {
+                    margin-left: 23%;
+                }
+                
+                img {
+                    height: 140px;
+                    -moz-box-shadow: 0 0 20px 20px black;
+                    box-shadow: 0 0 20px 20px black;
+                    height: 155px;
+                    width: 320px;
+                    border-radius: 25px;
+                }
+                
+                .s2 {
+                    margin-left: 6%;
+                }
+                
+                #boi {
+                    padding-top: 4%;
+                }
+                
+                .button1 {
+                    background-color: yellow;
+                    margin-left: 34%;
+                    border-radius: 10px;
+                    border: none;
+                    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+                }
+                
+                .button2 {
+                    background-color: yellow;
+                    margin-left: 26%;
+                    border-radius: 10px;
+                    border: none;
+                    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+                }
+                
+                .i1 {
+                    margin-left: 3%;
+                }
+                
+                .i1 img {
+                    padding: relative;
+                    margin-top: 2%;
+                    -moz-box-shadow: none;
+                    box-shadow: none;
+                    border-radius: 6px;
+                    height: 310px;
+                    width: 390px;
+                    border: 1px solid black;
+                }
+                
+                .i2 img {
+                    -moz-box-shadow: none;
+                    box-shadow: none;
+                    border-radius: 6px;
+                    height: 310px;
+                    width: 390px;
+                    border: 1px solid black;
+                }
+                
+                .i2 {
+                    margin-left: 3%;
+                }
+                
+                .i3 img {
+                    -moz-box-shadow: none;
+                    box-shadow: none;
+                    border-radius: 6px;
+                    height: 310px;
+                    width: 390px;
+                    border: 1px solid black;
+                }
+                
+                .i3 {
+                    margin-left: 3%;
+                }
+                
+                .ib1 {
+                    position: absolute;
+                    text-align: center;
+                    color: black;
+                    margin-top: 23.5%;
+                    margin-left: -18%;
+                    background-color: yellow;
+                    border-radius: 24px;
+                    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                }
+                
+                .ib2 {
+                    position: absolute;
+                    text-align: center;
+                    color: black;
+                    margin-top: 23.5%;
+                    margin-left: -18%;
+                    background-color: yellow;
+                    border-radius: 24px;
+                    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                }
+                
+                .ib3 {
+                    position: absolute;
+                    text-align: center;
+                    color: black;
+                    margin-top: 23.5%;
+                    margin-left: -18%;
+                    background-color: yellow;
+                    border-radius: 24px;
+                    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                }
